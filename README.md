@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Javier
+- 👀 I’m interested in VideoGames and Android Apps Development
+- 🌱 I’m currently learning Java, Kotlin and C#
+- 💞️ I’m looking to collaborate on a videogame proyect
+- 🌟 https://linktr.ee/nepnep_S
